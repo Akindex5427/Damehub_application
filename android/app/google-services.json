@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62880765193",
+    "firebase_url": "https://dame-hub-app.firebaseio.com",
+    "project_id": "dame-hub-app",
+    "storage_bucket": "dame-hub-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62880765193:android:6fe995077db907df752fd8",
+        "android_client_info": {
+          "package_name": "com.example.damehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62880765193-9h75p4i6t4n9nkckeoh2c85bfsdigcdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.damehub",
+            "certificate_hash": "af35e2f683a80a95083a93b6c645736898287488"
+          }
+        },
+        {
+          "client_id": "62880765193-os9dc8bh7dsgmqup1tsnr3qs8fshoobm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlqQIq0tB6rZG0ouyVtzHyUabR8Q8gSoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62880765193-os9dc8bh7dsgmqup1tsnr3qs8fshoobm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
